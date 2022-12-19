@@ -1,0 +1,55 @@
+#root{
+  width: 50%;
+  height: 6rem;
+}
+
+h2{
+  font-size: 3rem;
+}
+
+h3{
+  text-align: end;
+}
+
+.boxquote{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap:1rem;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  /* border: 2px solid black; */
+  box-shadow: 3px 3px 3px black;
+}
+
+.flex{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+
+/* button{
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  color: beige;
+  border: 2px solid black;
+  box-shadow: 5px 5px 15px black;
+} */
+
+i{
+  font-size: 2.5rem;
+}
+
+
+
+.bulb{
+  width: 200px;
+  height: 200px;
+  /* border: 1px solid black; */
+  border-radius: 50%;
+  /* box-shadow: 5px 5px 8px yellow; */
+}
